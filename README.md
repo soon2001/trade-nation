@@ -3,6 +3,12 @@
 This project contains **UI test automation scripts** written in **JavaScript** using [Playwright](https://playwright.dev/).  
 It demonstrates both **positive and negative test cases** for the Trade Nation website.
 
+Install dependencies
+npm install
+
+Install Playwright:
+npm init playwright@latest
+
 ---
 Run all test:
 npx playwright test
